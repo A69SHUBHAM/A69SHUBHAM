@@ -21,7 +21,7 @@ React • Node.js • Express • MongoDB
 
 🌐 Live : https://smart-complaint-resolution-and-esca.vercel.app/
 
-🔗 https://github.com/codeslayerpdx/Smart-Complaint-Resolution-and-Escalation-System
+🔗GitHub Repository: https://github.com/codeslayerpdx/Smart-Complaint-Resolution-and-Escalation-System
 
 ---
 
@@ -42,7 +42,7 @@ React • Vite • Firebase
 
 🌐 Live : https://focus-tracker-lilac.vercel.app/
 
-🔗 https://github.com/A69SHUBHAM/Focus-Tracker
+🔗GitHub Repository: https://github.com/A69SHUBHAM/Focus-Tracker
 
 ---
 
