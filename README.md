@@ -1,6 +1,57 @@
 # 💫 About Me:
 👨‍💻 About Me<br>I'm a Computer Science student passionate about building impactful software — from AI-powered applications to full-stack platforms. I enjoy turning complex problems into clean, efficient solutions.<br><br>🎓 Pursuing a degree in Computer Science<br>🌱 Currently deepening my knowledge in Machine Learning & React<br>🤝 Open to collaborations on open-source and student projects<br>
 
+# 🚀 Featured Projects
+
+## 🧠 Smart Complaint Resolution & Management System
+
+A full-stack complaint management platform designed to streamline issue tracking and resolution for hostels, institutions, and organizations.
+
+### ✨ Features
+
+* User authentication & role-based access
+* Complaint submission & tracking
+* Admin dashboard
+* Status updates & notifications
+* Responsive modern UI
+
+### 🛠️ Tech Stack
+
+React • Node.js • Express • MongoDB 
+
+🔗 https://github.com/codeslayerpdx/Smart-Complaint-Resolution-and-Escalation-System
+
+---
+
+## ⏱️ Focus Tracker
+
+A productivity-focused web application that helps users stay consistent with focused work sessions and track daily progress.
+
+### ✨ Features
+
+* Focus session timer
+* Daily tracking
+* Productivity analytics
+* Clean responsive interface
+
+### 🛠️ Tech Stack
+
+React • Vite • Firebase
+
+🔗 https://github.com/A69SHUBHAM/Focus-Tracker
+
+---
+
+## 🤖 AI Project (Replace With Actual Name)
+
+Short 2–3 line explanation about what the AI project does and the problem it solves.
+
+### 🛠️ Tech Stack
+
+Python • Pandas • NumPy • Machine Learning
+
+🔗 [GitHub Repository](YOUR_REPO_LINK_HERE)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-rai-636807387/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@ShubhamRai-l6p8q) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spacekrai0@gmail.com) 
@@ -21,4 +72,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=A69SHUBHAM&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
