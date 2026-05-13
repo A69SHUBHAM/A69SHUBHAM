@@ -46,15 +46,7 @@ React • Vite • Firebase
 
 ---
 
-## 🤖 AI Project (Replace With Actual Name)
 
-Short 2–3 line explanation about what the AI project does and the problem it solves.
-
-### 🛠️ Tech Stack
-
-Python • Pandas • NumPy • Machine Learning
-
-🔗 [GitHub Repository](YOUR_REPO_LINK_HERE)
 
 
 ## 🌐 Socials:
