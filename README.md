@@ -18,6 +18,7 @@ A full-stack complaint management platform designed to streamline issue tracking
 ### 🛠️ Tech Stack
 
 React • Node.js • Express • MongoDB 
+
 🌐 Live : https://smart-complaint-resolution-and-esca.vercel.app/
 🔗 https://github.com/codeslayerpdx/Smart-Complaint-Resolution-and-Escalation-System
 
@@ -37,6 +38,7 @@ A productivity-focused web application that helps users stay consistent with foc
 ### 🛠️ Tech Stack
 
 React • Vite • Firebase
+
 🌐 Live : https://focus-tracker-lilac.vercel.app/
 🔗 https://github.com/A69SHUBHAM/Focus-Tracker
 
