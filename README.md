@@ -1,6 +1,8 @@
 # 💫 About Me:
 <br>I'm a Computer Science student passionate about building impactful software — from AI-powered applications to full-stack platforms. I enjoy turning complex problems into clean, efficient solutions.<br><br>🎓 Pursuing a degree in Computer Science<br>🌱 Currently deepening my knowledge in Machine Learning & React<br>🤝 Open to collaborations on open-source and student projects<br>
 
+![Profile Views](https://komarev.com/ghpvc/?username=A69SHUBHAM&label=Profile%20Views&color=0e75b6&style=flat)
+
 # 🚀 Featured Projects
 
 ## 🧠 Smart Complaint Resolution & Management System
