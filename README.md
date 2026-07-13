@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br><br>🎓 Pursuing a degree in Computer Science<br>🌱 Currently deepening my knowledge in Machine Learning & React<br>🤝 Open to collaborations on open-source and student projects<br>
+<br>🎓 Pursuing a degree in Computer Science<br>🌱 Currently deepening my knowledge in Machine Learning & React<br>🤝 Open to collaborations on open-source and student projects<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=A69SHUBHAM&label=Profile%20Views&color=0e75b6&style=flat)
 
